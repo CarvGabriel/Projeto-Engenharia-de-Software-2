@@ -1,7 +1,7 @@
 # Projeto-Engenharia-de-Software-2
 
 #### Grupo:
-Gabriel Carvalho.  Renato Akira.  Adilson
+Gabriel Carvalho.    Renato Akira.    Adilson
 
 ### Software para compras automatizadas
 
