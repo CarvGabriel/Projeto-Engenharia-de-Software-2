@@ -1,5 +1,8 @@
 # Projeto-Engenharia-de-Software-2
 
+#### Grupo:
+Gabriel Carvalho.  Renato Akira.  Adilson
+
 ### Software para compras automatizadas
 
 Em um mundo movimentado, onde cada minuto conta, a busca por soluções que minimizem as "dores" cotidianas é constante. Nosso software abordará necessidade de otimizar o processo de compras mensais. 
