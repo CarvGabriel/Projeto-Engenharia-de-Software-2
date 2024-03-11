@@ -36,9 +36,9 @@ Concorrentes diretos podem incluir outros aplicativos de compras online, bem com
 O faturamento mínimo necessário para atingir o ponto de equilíbrio dependerá dos custos operacionais. Essa análise financeira precisa ser realizada detalhadamente para determinar o ponto em que as receitas superam os custos.
 
 ### Tecnologias:
-FrontEnd: HTML e CSS
+FrontEnd: React, HTML e CSS
 
-BackEnd: Python
+BackEnd: Python e Django
 
 Banco de Dados: Oracle SQL Developer
 
