@@ -49,4 +49,4 @@ Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores
 
 Quantidade de Relatórios (Não é listagem). Quais relatórios? Relatório de vendas no mês.
 
-Quantidade de Telas: Quais telas? Tela de inicio, Tela de cadastro de cliente, Tela de login e Tela de pagamento.
+Quantidade de Telas: Quais telas? Tela de inicio, Tela de lista de mercados, Tela de cadastro de cliente, Tela de login e Tela de pagamento.
