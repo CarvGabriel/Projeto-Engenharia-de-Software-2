@@ -38,7 +38,7 @@ O faturamento mínimo necessário para atingir o ponto de equilíbrio dependerá
 ### Tecnologias:
 FrontEnd: React, JavaScript, HTML e CSS
 
-BackEnd: Python e Django
+BackEnd: JavaScript, JQuery e BootStrap
 
 Banco de Dados: Oracle SQL Developer
 
