@@ -8,6 +8,7 @@ package Casos-de-Uso{
   usecase "Pesquisar Produtos" as UC4
   usecase "Cancelar Compra" as UC5
   usecase "Realizar o Pagamento" as UC6
+  usecase "Registrar Endereço" as UC7
 }
 c --> UC1
 c --> UC2
@@ -15,4 +16,5 @@ c --> UC3
 c --> UC4
 c --> UC5
 c --> UC6
+c --> UC7
 @enduml
