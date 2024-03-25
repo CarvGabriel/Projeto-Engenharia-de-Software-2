@@ -1,0 +1,18 @@
+@startuml "use-cases"
+left to right direction
+actor Cliente as c
+package Casos-de-Uso{
+  usecase "Vizualisar Produtos" as UC1
+  usecase "Acessar Lista de Mercados" as UC2
+  usecase "Acessar Lista de Compras" as UC3
+  usecase "Pesquisar Produtos" as UC4
+  usecase "Cancelar Compra" as UC5
+  usecase "Realizar o Pagamento" as UC6
+}
+c --> UC1
+c --> UC2
+c --> UC3
+c --> UC4
+c --> UC5
+c --> UC6
+@enduml
