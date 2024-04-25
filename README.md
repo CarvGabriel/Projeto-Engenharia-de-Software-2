@@ -7,30 +7,24 @@ Renato Akira
 
 Adilson
 
-### Software para compras automatizadas
+### Software para Compras Automatizadas de Suplementos de Academia
 
-Em um mundo movimentado, onde cada minuto conta, a busca por soluções que minimizem as "dores" cotidianas é constante. Nosso software abordará necessidade de otimizar o processo de compras mensais. 
-O conceito do software é simples, um aplicativo que visa proporcionar uma experiência de compra online personalizada e simplificada. Ao invés de reservar um tempo mensal para ir ao mercado, o usuário pode economizar esse esforço ao realizar essa tarefa online.
-A funcionalidade central do software é a criação automática de uma lista de compras baseada nos padrões de consumo mensais do usuário. O algoritmo inteligente analisará as compras passadas, aprendendo quais itens são frequentemente adquiridos. Assim, até mesmo o tempo em que o usuário gasta comprando no aplicativo será economizado.
-Com apenas um clique para acessar a lista de compras personalizada e, se desejado, ajustar os itens conforme as necessidades do momento. O software, então, encarrega-se de efetuar a compra online, economizando o tempo do usuário.
+Em um mundo onde cada minuto conta e a otimização do tempo é essencial, surge a necessidade de soluções que simplifiquem as tarefas do dia a dia. Nosso software visa atender essa demanda, oferecendo uma experiência de compra online personalizada e eficiente para suplementos de academia. Ao invés de dedicar tempo a comprar esses produtos em lojas físicas, os usuários podem economizar esforço ao realizar suas compras online através do nosso aplicativo. A funcionalidade central do software é a criação automática de uma lista de compras baseada nos padrões de consumo e nas necessidades individuais de cada usuário. Um algoritmo inteligente analisa o histórico de compras e as preferências dos usuários, aprendendo quais suplementos são frequentemente adquiridos. Dessa forma, o tempo gasto na escolha dos produtos é minimizado. Com apenas um clique, os usuários podem acessar sua lista de compras personalizada e, se desejado, ajustar os itens conforme suas necessidades atuais. O software, então, facilita a conexão entre vendedores e compradores para efetuar a compra online, poupando tempo e esforço aos usuários.
 
-
-
-
-### Público Alvo:
-O público-alvo são os indivíduos que buscam otimizar seu tempo em meio a um cotidiano agitado. Essa solução é direcionada a pessoas que preferem realizar suas compras de forma rápida e conveniente, especialmente aquelas que desejam simplificar o processo de compras mensais.
+### Público-Alvo:
+Nosso público-alvo são os frequentadores de academias e entusiastas de atividades físicas que buscam otimizar seu tempo e simplificar o processo de compra de suplementos. Essa solução é direcionada especialmente àqueles que desejam adquirir seus produtos de forma rápida, conveniente e personalizada.
 
 ### Tamanho do Mercado:
-O tamanho do mercado é amplo, pois abrange qualquer pessoa que realize compras regulares, particularmente aquelas que buscam praticidade e eficiência. 
+O mercado de suplementos de academia é amplo e em constante crescimento, abrangendo desde atletas profissionais até entusiastas de fitness. A demanda por praticidade e eficiência na compra desses produtos torna nosso software relevante para uma ampla gama de usuários.
 
 ### Formas de Monetização:
-A principal forma de monetização do software será através das compras dos produtos realizadas pelos usuários. Uma pequena taxa ou porcentagem sobre o valor total das compras pode ser aplicada para sustentar o funcionamento contínuo do serviço. Além disso, parcerias com estabelecimentos comerciais para promoções exclusivas ou taxas de transação podem ser consideradas.
+A principal forma de monetização do software será através de uma pequena taxa ou porcentagem sobre o valor total das transações realizadas pelos usuários. Além disso, parcerias com vendedores de suplementos para promoções exclusivas ou taxas de transação podem ser consideradas como fontes adicionais de receita.
 
 ### Formas de Degustação/Testes:
-A degustação/testes podem ser oferecidos através de períodos gratuitos ou versões de avaliação do software.
+Ofereceremos períodos gratuitos ou versões de avaliação do software para que os usuários possam experimentar sua funcionalidade e benefícios antes de realizar uma assinatura ou compra.
 
-### Concorrentes:
-Concorrentes diretos podem incluir outros aplicativos de compras online, bem como serviços de entrega de alimentos e supermercados online.
+Concorrentes:
+Concorrentes diretos podem incluir outros aplicativos de compra de suplementos online, bem como plataformas de comércio eletrônico que oferecem produtos relacionados à saúde e fitness.
 
 ### Faturamento mínimo/Ponto de equilíbrio:
 O faturamento mínimo necessário para atingir o ponto de equilíbrio dependerá dos custos operacionais. Essa análise financeira precisa ser realizada detalhadamente para determinar o ponto em que as receitas superam os custos.
@@ -43,13 +37,12 @@ BackEnd: JavaScript e Node.js
 Banco de Dados: Oracle SQL Developer
 
 ### Análise do sistema proposto:
-Quantidade de Tabelas, quais tabelas? Clientes, Compras, Produtos e Mercados.
+Quantidade de Tabelas, quais tabelas? Clientes, Compras, Produtos e Vendedores.
 
-Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores dos usuários. Quais Dores? Compra de Produtos online.
+Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores dos usuários. Quais Dores? Comprar Produtos Online.
 
 Quantidade de Relatórios (Não é listagem). Quais relatórios? Relatório de vendas no mês.
 
 Quantidade de Telas: Quais telas? Tela de inicio, Tela de lista de mercados, Tela de cadastro de cliente, Tela de login, lista de compras, lista recomendada e Tela de pagamento.
 
 ### Casos de Uso
-<object data="use-cases.svg" type="image/svg+xml"></object>
