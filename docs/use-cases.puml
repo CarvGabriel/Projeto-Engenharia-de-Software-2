@@ -1,20 +1,41 @@
 @startuml "use-cases"
 left to right direction
 actor Cliente as c
+actor Admin as a
+actor Vendedor as v
 package Casos-de-Uso{
-  usecase "Vizualisar Produtos" as UC1
-  usecase "Acessar Lista de Mercados" as UC2
-  usecase "Acessar Lista de Compras" as UC3
-  usecase "Pesquisar Produtos" as UC4
-  usecase "Cancelar Compra" as UC5
-  usecase "Realizar o Pagamento" as UC6
-  usecase "Registrar Endereço" as UC7
+  usecase "Vizualisar Produtos" as UCc1
+  usecase "Acessar Carrinho" as UCc2
+  usecase "Pesquisar Produtos" as UCc4
+  usecase "Cancelar Compra" as UCc5
+  usecase "Realizar o Pagamento" as UCc6
+  usecase "Ver Ofertas" as UCc7
+  usecase "Avaliar Produtos" as UCc8
+  usecase "Acessar Produto" as UCc9
+  usecase "Definir Endereço" as UCc10
+  usecase "Ver Histórico de Compras" as UCc11
+
+  usecase "Visualizar Compras" as UCa1
+  usecase "Visualizar Lucro" as UCa2
+
+  usecase "Colocar produtos para venda" as UCv1
+  usecase "Visualizar produtos a venda" as UCv2
+  usecase "Visualizar Pedidos" as UCv3
+
 }
-c --> UC1
-c --> UC2
-c --> UC3
-c --> UC4
-c --> UC5
-c --> UC6
-c --> UC7
+c --> UCc1
+c --> UCc2
+c --> UCc4
+c --> UCc5
+c --> UCc6
+c --> UCc7
+c --> UCc8
+c --> UCc9
+c --> UCc10
+c --> UCc11
+a --> UCa1
+a --> UCa2
+v --> UCv1
+v --> UCv2
+v --> UCv3
 @enduml
