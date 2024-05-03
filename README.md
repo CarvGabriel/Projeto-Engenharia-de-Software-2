@@ -46,3 +46,4 @@ Quantidade de Relatórios (Não é listagem). Quais relatórios? Relatório de v
 Quantidade de Telas: Quais telas? Tela de inicio, Tela de lista de mercados, Tela de cadastro de cliente, Tela de login, lista de compras, lista recomendada e Tela de pagamento.
 
 ### Casos de Uso
+![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/out/docs/use-cases/use-cases.png)
