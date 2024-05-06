@@ -15,12 +15,13 @@ package Casos-de-Uso{
   usecase "Definir Endereço" as UCc10
   usecase "Ver Histórico de Compras" as UCc11
 
-  usecase "Visualizar Compras" as UCa1
+  usecase "Visualizar Clientes" as UCa1
   usecase "Visualizar Lucro" as UCa2
+  usecase "Visualizar Vendedores" as UCa3
 
   usecase "Colocar produtos para venda" as UCv1
   usecase "Visualizar produtos a venda" as UCv2
-  usecase "Visualizar Pedidos" as UCv3
+  usecase "Visualizar produtos vendidos" as UCv3
 
 }
 c --> UCc1
@@ -35,6 +36,7 @@ c --> UCc10
 c --> UCc11
 a --> UCa1
 a --> UCa2
+a --> UCa3
 v --> UCv1
 v --> UCv2
 v --> UCv3
