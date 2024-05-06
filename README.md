@@ -21,9 +21,9 @@ O mercado de suplementos de academia é amplo e em constante crescimento, abrang
 A principal forma de monetização do software será através de uma pequena taxa ou porcentagem sobre o valor total das transações realizadas pelos usuários. Além disso, parcerias com vendedores de suplementos para promoções exclusivas ou taxas de transação podem ser consideradas como fontes adicionais de receita.
 
 ### Formas de Degustação/Testes:
-Ofereceremos períodos gratuitos ou versões de avaliação do software para que os usuários possam experimentar sua funcionalidade e benefícios antes de realizar uma assinatura ou compra.
+Ofereceremos períodos de avaliação do software para que os usuários possam experimentar sua funcionalidade e benefícios antes do software estar totalmente completo.
 
-Concorrentes:
+### Concorrentes:
 Concorrentes diretos podem incluir outros aplicativos de compra de suplementos online, bem como plataformas de comércio eletrônico que oferecem produtos relacionados à saúde e fitness.
 
 ### Faturamento mínimo/Ponto de equilíbrio:
