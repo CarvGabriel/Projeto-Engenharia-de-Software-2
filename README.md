@@ -38,16 +38,65 @@ BackEnd: JavaScript e Node.js
 Banco de Dados: Oracle SQL Developer
 
 ### Análise do sistema proposto:
-Quantidade de Tabelas, quais tabelas? Clientes, Compras, Produtos e Vendedores.
+Quantidade de Tabelas, quais tabelas? 
+
+•	Clientes
+
+•	Compras
+
+•	Produtos
+
+•	Vendedores.
 
 Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores dos usuários. Quais Dores?
+
 •	Tempo gasto na busca e compra dos produtos.
+
 •	Dificuldade em encontrar os produtos certos para suas necessidades individuais.
+
 •	Processo de compra repetitivo e pouco eficiente em lojas físicas.
 
 Quantidade de Relatórios (Não é listagem). Quais relatórios? 
 
-Quantidade de Telas: Quais telas? Tela de inicio, Ofertas, Tela de cadastro de cliente, Tela de login, Carrinho, Telas de pagamento, Perfil, Historico de Compras, Cadastrar Endereço.
+Quantidade de Telas: Quais telas? 
+
+##### Cliente
+•	Tela de inicio
+
+•	Ofertas
+
+•	Tela de cadastro de cliente
+
+•	Tela de login
+
+•	Carrinho
+
+•	Telas de pagamento
+
+•	Perfil
+
+•	Historico de Compras
+
+•	Cadastrar Endereço
+
+##### Vendedor
+•	Produtos a venda
+
+•	Produtos vendidos
+
+•	Perfil
+
+•	Histórico de vendas
+
+•	Colocar produto a venda
+
+##### Admin
+•	Vendedores
+
+•	Clientes
+
+•	Lucros
+
 
 ### Casos de Uso
 ![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/use-cases.png)
