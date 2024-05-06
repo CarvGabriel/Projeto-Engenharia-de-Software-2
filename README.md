@@ -40,11 +40,14 @@ Banco de Dados: Oracle SQL Developer
 ### Análise do sistema proposto:
 Quantidade de Tabelas, quais tabelas? Clientes, Compras, Produtos e Vendedores.
 
-Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores dos usuários. Quais Dores? Comprar Produtos Online.
+Quantidade de Dores (Casos de Uso). Atenção  Cadastros e Login não são dores dos usuários. Quais Dores?
+•	Tempo gasto na busca e compra dos produtos.
+•	Dificuldade em encontrar os produtos certos para suas necessidades individuais.
+•	Processo de compra repetitivo e pouco eficiente em lojas físicas.
 
-Quantidade de Relatórios (Não é listagem). Quais relatórios? Relatório de vendas no mês.
+Quantidade de Relatórios (Não é listagem). Quais relatórios? 
 
-Quantidade de Telas: Quais telas? Tela de inicio, Tela de lista de mercados, Tela de cadastro de cliente, Tela de login, lista de compras, lista recomendada e Tela de pagamento.
+Quantidade de Telas: Quais telas? Tela de inicio, Ofertas, Tela de cadastro de cliente, Tela de login, Carrinho, Telas de pagamento, Perfil, Historico de Compras, Cadastrar Endereço.
 
 ### Casos de Uso
 ![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/use-cases.png)
