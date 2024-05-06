@@ -27,7 +27,8 @@ Concorrentes:
 Concorrentes diretos podem incluir outros aplicativos de compra de suplementos online, bem como plataformas de comércio eletrônico que oferecem produtos relacionados à saúde e fitness.
 
 ### Faturamento mínimo/Ponto de equilíbrio:
-O faturamento mínimo necessário para atingir o ponto de equilíbrio dependerá dos custos operacionais. Essa análise financeira precisa ser realizada detalhadamente para determinar o ponto em que as receitas superam os custos.
+O faturamento mínimo necessário para atingir o ponto de equilíbrio dependerá dos custos operacionais. Estimamos que seja aproximandamente é de 9140 reais por mês, pois terá gastos de aproximadamente 3 mil reais por mês com cada desenvolvedor, totalizando 9 mil reais mensais e gastos de 140 reais por mês com hospedagem do site.
+
 
 ### Tecnologias:
 FrontEnd: React, HTML e CSS
@@ -46,4 +47,4 @@ Quantidade de Relatórios (Não é listagem). Quais relatórios? Relatório de v
 Quantidade de Telas: Quais telas? Tela de inicio, Tela de lista de mercados, Tela de cadastro de cliente, Tela de login, lista de compras, lista recomendada e Tela de pagamento.
 
 ### Casos de Uso
-![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/out/docs/use-cases/use-cases.png)
+![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/use-cases.png)
