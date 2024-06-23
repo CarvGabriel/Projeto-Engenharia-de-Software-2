@@ -100,3 +100,6 @@ Quantidade de Telas: Quais telas?
 
 ### Casos de Uso
 ![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/use-cases.png)
+
+### Modelo E/R
+![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/Modelo%20ER%20Projeto.PNG)
