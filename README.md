@@ -103,3 +103,6 @@ Quantidade de Telas: Quais telas?
 
 ### Modelo E/R
 ![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/Modelo%20ER%20Projeto.PNG)
+
+### Modelo Conceitual
+![casos de uso](https://raw.githubusercontent.com/CarvGabriel/Projeto-Engenharia-de-Software-2/main/docs/Modelo%20Conceitual.png)
